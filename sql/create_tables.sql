@@ -1,4 +1,4 @@
-CREATE DATABASE electricity_analysis;
+cREATE DATABASE electricity_analysis;
 
 USE electricity_analysis;
 
